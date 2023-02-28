@@ -1,4 +1,6 @@
-# 문제 풀이
+# SWEA
+
+**SW Expert Academy**
 
 ## D2
 
