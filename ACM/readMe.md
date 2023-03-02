@@ -16,6 +16,20 @@
 
 - [풀이](./math/p11720.%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9.py)
 
+## Prefix Sum, 구간합
+
+**11659 구간 합 구하기4**
+
+- [문제링크](https://www.acmicpc.net/problem/11659)
+
+- [풀이](./prefix_sum/p11659.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B04.py)
+
+**11660 구간 합 구하기5⭐**
+
+- [문제링크](https://www.acmicpc.net/problem/11660)
+
+- [풀이](./prefix_sum/p11660.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B05.py)
+
 ## Greedy, 탐욕
 
 **5585 거스름돈**
