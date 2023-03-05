@@ -43,3 +43,11 @@
 - [문제링크](https://www.acmicpc.net/problem/11399)
 
 - [풀이](./greed/p11399.%20ATM.py)
+
+## Sorting, 정렬
+
+**2750 수 정렬하기**
+
+- [문제링크](https://www.acmicpc.net/problem/2750)
+
+- [풀이](./sorting/p2750.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
