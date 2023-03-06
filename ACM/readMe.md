@@ -51,3 +51,9 @@
 - [문제링크](https://www.acmicpc.net/problem/2750)
 
 - [풀이](./sorting/p2750.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+
+**1377 버블 소트⭐**
+
+- [문제링크](https://www.acmicpc.net/problem/1377)
+
+- [풀이](./sorting/p1377.%20%EB%B2%84%EB%B8%94%20%EC%86%8C%ED%8A%B8.py)
