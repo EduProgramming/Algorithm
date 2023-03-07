@@ -57,3 +57,9 @@
 - [문제링크](https://www.acmicpc.net/problem/1377)
 
 - [풀이](./sorting/p1377.%20%EB%B2%84%EB%B8%94%20%EC%86%8C%ED%8A%B8.py)
+
+**1427 소트인사이드**
+
+- [문제링크](https://www.acmicpc.net/problem/1427)
+
+- [풀이](./sorting/p1427.%20%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)
