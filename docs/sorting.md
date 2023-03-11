@@ -29,3 +29,22 @@ for i in range(1, N):
         else:
             break
 ```
+
+## 퀵 정렬
+
+```python
+def quick_sort(array):
+    if len(array) <= 1:
+        return array
+
+    pivot = array[0]
+    left = []
+    right = []
+    for i in range(1, len(array)):
+        if pivot > array[i]:
+            left.append(array[i])
+        else:
+            right.append(array[i])
+
+    return quick_sort(left) + [pivot] + quick_sort(right)
+```
