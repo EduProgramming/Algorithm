@@ -2,6 +2,8 @@
 
 **백준**
 
+> 🏃: `sys.stdin.readline` 사용해야하는 문제 표시
+
 ## Math, 수학
 
 **1546 평균**
@@ -18,13 +20,13 @@
 
 ## Prefix Sum, 구간합
 
-**11659 구간 합 구하기4**
+**🏃11659 구간 합 구하기4**
 
 - [문제링크](https://www.acmicpc.net/problem/11659)
 
 - [풀이](./prefix_sum/p11659.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B04.py)
 
-**11660 구간 합 구하기5⭐**
+**🏃11660 구간 합 구하기5⭐**
 
 - [문제링크](https://www.acmicpc.net/problem/11660)
 
@@ -78,7 +80,7 @@
 
 - [풀이](./sorting/p2750.%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
 
-**1377 버블 소트⭐**
+**🏃1377 버블 소트⭐**
 
 - [문제링크](https://www.acmicpc.net/problem/1377)
 
@@ -89,3 +91,11 @@
 - [문제링크](https://www.acmicpc.net/problem/1427)
 
 - [풀이](./sorting/p1427.%20%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)
+
+## Stack, 스택
+
+**🏃17608 막대기**
+
+- [문제링크](https://www.acmicpc.net/problem/17608)
+
+- [풀이](./stack/p17608.%20%EB%A7%89%EB%8C%80%EA%B8%B0.py)
