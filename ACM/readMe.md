@@ -38,6 +38,12 @@
 
 - [풀이](./greedy/p1541.%20%EC%9D%BD%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py)
 
+**4796 캠핑**
+
+- [문제링크](https://www.acmicpc.net/problem/4796)
+
+- [풀이](./greedy/p4796.%20%EC%BA%A0%ED%95%91.py)
+
 **5585 거스름돈**
 
 - [문제링크](https://www.acmicpc.net/problem/5585)
