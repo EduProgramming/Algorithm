@@ -58,6 +58,12 @@
 
 ## Brute Force, 완전 탐색
 
+**2309 일곱 난쟁이**
+
+- [문제링크](https://www.acmicpc.net/problem/2309)
+
+- [풀이](./brute_force/p2309.%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.py)
+
 **2798 블랙잭**
 
 - [문제링크](https://www.acmicpc.net/problem/2798)
