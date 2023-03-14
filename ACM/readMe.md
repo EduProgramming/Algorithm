@@ -94,8 +94,28 @@
 
 ## Stack, 스택
 
+**9012 괄호**
+
+- [문제링크](https://www.acmicpc.net/problem/9012)
+
+- [풀이](./stack/p9012.%20%EA%B4%84%ED%98%B8.py)
+
+**🏃10773 제로**
+
+- [문제링크](https://www.acmicpc.net/problem/10773)
+
+- [풀이](./stack/p10773.%20%EC%A0%9C%EB%A1%9C.py)
+
 **🏃17608 막대기**
 
 - [문제링크](https://www.acmicpc.net/problem/17608)
 
 - [풀이](./stack/p17608.%20%EB%A7%89%EB%8C%80%EA%B8%B0.py)
+
+## Queue, 큐
+
+**🏃10845 큐**
+
+- [문제링크](https://www.acmicpc.net/problem/10845)
+
+- [풀이](./queue/p10845.%20%ED%81%90.py)
