@@ -56,6 +56,14 @@
 
 - [풀이](./greedy/p11399.%20ATM.py)
 
+## Brute Force, 완전 탐색
+
+**2798 블랙잭**
+
+- [문제링크](https://www.acmicpc.net/problem/2798)
+
+- [풀이](./brute_force/p2798.%20%EB%B8%94%EB%9E%99%EC%9E%AD.py)
+
 ## Sorting, 정렬
 
 **2750 수 정렬하기**
