@@ -34,11 +34,11 @@
 
 ## Greedy, 탐욕
 
-**1541 읽어버린 괄호⭐**
+**1541 잃어버린 괄호⭐**
 
 - [문제링크](https://www.acmicpc.net/problem/1541)
 
-- [풀이](./greedy/p1541.%20%EC%9D%BD%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py)
+- [풀이](./greedy/p1541.%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py)
 
 **4796 캠핑**
 
