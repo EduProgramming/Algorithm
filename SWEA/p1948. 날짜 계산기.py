@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("p1948. 날짜 계산기.txt", "r")
+sys.stdin = open("./input_data/p1948. 날짜 계산기.txt", "r")
 
 """
 [방법1]

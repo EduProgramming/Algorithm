@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("p1983. 조교의 성적 매기기.txt", "r")
+sys.stdin = open("./input_data/p1983. 조교의 성적 매기기.txt", "r")
 
 GRADE_LIST = ['A+', 'A0', 'A-', 'B+', 'B0', 'B-', 'C+', 'C0', 'C-', 'D0']
 
