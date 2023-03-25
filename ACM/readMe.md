@@ -72,6 +72,12 @@
 
 - [풀이](./brute_force/p2798.%20%EB%B8%94%EB%9E%99%EC%9E%AD.py)
 
+**10974 모든 순열**
+
+- [문제링크](https://www.acmicpc.net/problem/10974)
+
+- [풀이](./brute_force/p10974.%20%EB%AA%A8%EB%93%A0%20%EC%88%9C%EC%97%B4.py)
+
 ## Sorting, 정렬
 
 **2750 수 정렬하기**
