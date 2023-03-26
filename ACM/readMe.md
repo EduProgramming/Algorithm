@@ -60,6 +60,12 @@
 
 ## Brute Force, 완전 탐색
 
+**1182 부분수열의 합**
+
+- [문제링크](https://www.acmicpc.net/problem/1182)
+
+- [풀이](./brute_force/p1182.%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.py)
+
 **2309 일곱 난쟁이**
 
 - [문제링크](https://www.acmicpc.net/problem/2309)
