@@ -2,7 +2,7 @@
 
 **백준**
 
-> 🏃: `sys.stdin.readline` 사용해야하는 문제 표시
+> 🏃: 입/출력 속도 방안 사용해야하는 문제
 
 ## Math, 수학
 
@@ -20,6 +20,8 @@
 
 ## Prefix Sum, 구간합
 
+### Prefix Sum, 구간합
+
 **🏃11659 구간 합 구하기4**
 
 - [문제링크](https://www.acmicpc.net/problem/11659)
@@ -31,6 +33,22 @@
 - [문제링크](https://www.acmicpc.net/problem/11660)
 
 - [풀이](./prefix_sum/p11660.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B05.py)
+
+### Two Pointer, 투 포인터
+
+**2018 수들의 합5**
+
+- [문제링크](https://www.acmicpc.net/problem/2018)
+
+- [풀이](./prefix_sum/p2018.%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A95.java)
+
+### Sliding Window, 슬라이딩 윈도우
+
+**12891 DNA 비밀번호**
+
+- [문제링크](https://www.acmicpc.net/problem/12891)
+
+- [풀이](./prefix_sum/p12891.%20DNA%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java)
 
 ## Greedy, 탐욕
 
@@ -131,3 +149,41 @@
 - [문제링크](https://www.acmicpc.net/problem/10845)
 
 - [풀이](./queue/p10845.%20%ED%81%90.py)
+
+## Number Theory, 정수론
+
+### 에라토스테네스의 체
+
+**1929 소수 구하기**
+
+- [문제링크](https://www.acmicpc.net/problem/1929)
+
+- [풀이](./number_theory/p1929.%20%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+
+**1456 거의 소수⭐**
+
+- [문제링크](https://www.acmicpc.net/problem/1456)
+
+- [풀이](./number_theory/p1456.%20%EA%B1%B0%EC%9D%98%20%EC%86%8C%EC%88%98.py)
+
+### 오일러 피
+
+**11689 GCD(n,k)=1⭐**
+
+- [문제링크](https://www.acmicpc.net/problem/11689)
+
+- [풀이](<./number_theory/p11689.%20GCD(n%2Ck)%3D1.py>)
+
+### 유클리드 호제법
+
+**🏃1850 최대공약수**
+
+- [문제링크](https://www.acmicpc.net/problem/1850)
+
+- [풀이](./number_theory/p1850.%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98.java)
+
+**1934 최소공배수**
+
+- [문제링크](https://www.acmicpc.net/problem/1934)
+
+- [풀이](./number_theory/p1934.%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
