@@ -187,3 +187,35 @@
 - [문제링크](https://www.acmicpc.net/problem/1934)
 
 - [풀이](./number_theory/p1934.%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
+
+## DFS&BFS
+
+**🏃11724 연결 요소의 개수⭐**
+
+- [문제링크](https://www.acmicpc.net/problem/11724)
+
+- [풀이](./dfs_bfs/p11724.%20%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
+
+**1260 DFS와 BFS⭐**
+
+- [문제링크](https://www.acmicpc.net/problem/1260)
+
+- [풀이](./dfs_bfs/p1260.%20DFS%EC%99%80%20BFS.py)
+
+**1012 유기농 배추**
+
+- [문제링크](https://www.acmicpc.net/problem/1012)
+
+- [풀이](./dfs_bfs/p1012.%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)
+
+**2178 미로 탐색**
+
+- [문제링크](https://www.acmicpc.net/problem/2178)
+
+- [풀이](./dfs_bfs/p2178.%20%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py)
+
+**2667 단지번호붙이기**
+
+- [문제링크](https://www.acmicpc.net/problem/2667)
+
+- [풀이](./dfs_bfs/p2667.%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
