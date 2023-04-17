@@ -12,7 +12,7 @@ while N > 2 ** k:
 tree_size = 2 ** (k+1)
 tree = [0 for _ in range(tree_size)]
 
-# Create Leef Node
+# Create Leaf Node
 data_start_idx = tree_size // 2
 for i in range(N):
     tree[data_start_idx + i] = int(input())
