@@ -219,3 +219,17 @@
 - [문제링크](https://www.acmicpc.net/problem/2667)
 
 - [풀이](./dfs_bfs/p2667.%20%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)
+
+## Tree
+
+**1068 트리⭐**
+
+- [문제링크](https://www.acmicpc.net/problem/1068)
+
+- [풀이](./tree/p1068.%20%ED%8A%B8%EB%A6%AC.java)
+
+**🏃구간 합 구하기**
+
+- [문제링크](https://www.acmicpc.net/problem/2042)
+
+- [풀이](./tree/p2042.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
