@@ -37,55 +37,49 @@
 // 	}
 // }
 
-/** 조합을 이용한 방안
- * 기존 알고 있던 조합 형식이 아닌
- * Java 알고리즘 구현자들이 풀이한 방식으로 따라해봄
- */
+/** 조합을 이용한 방안 */
 import java.util.Scanner;
 
 public class Main {
-
-	static int[] arr;
 	
+	static int N;
+	static int M;
+	static int[] cards;
 	static int maxV;
 	
-	static void combi(int idx, int cnt, int[] arr, boolean[] visited, int N, int R, int M) {
-		if (cnt == R) {
+	static void combi(int r, int idx, boolean[] visit) {
+		if (r == 0) {
 			int sumV = 0;
-			for (int i=0; i <N; i++) {
-				if (visited[i]) {
-					sumV += arr[i];
+			for (int i=0; i<N; i++) {
+				if (visit[i]) {
+					sumV += cards[i];
 				}
 			}
-			if (sumV > M) {
-				return;
-			} else if (sumV > maxV) {
-				maxV = sumV;
+			if (sumV <= M) {
+				if (sumV > maxV) maxV = sumV;
 			}
 			return;
 		}
 		
-		if (idx == N) return;
-		
-		visited[idx] = true;
-		combi(idx+1, cnt+1, arr, visited, N, R, M);
-		visited[idx] = false;
-		combi(idx+1, cnt, arr, visited, N, R, M);
+		for (int i=idx; i<N; i++) {
+			visit[i] = true;
+			combi(r-1, i+1, visit);
+			visit[i] = false;
+		}
 	}
-		
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int N = sc.nextInt();
-		int R = 3;
-		int M = sc.nextInt();
+		N = sc.nextInt();
+		M = sc.nextInt();
 		
-		arr = new int[N];
+		cards = new int[N];
 		
 		for (int i=0; i<N; i++) {
-			arr[i] = sc.nextInt();
+			cards[i] = sc.nextInt();
 		}
 		
-		combi(0, 0, arr, new boolean[N], N, R, M);
+		combi(3, 0, new boolean[N]);
 		
 		System.out.println(maxV);
 		
